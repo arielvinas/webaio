@@ -1,5 +1,7 @@
 webaio
 ======
+[![CircleCI](https://circleci.com/gh/francom77/webaio.svg?style=shield)](https://circleci.com/gh/francom77/webaio)
+[![Coverage Status](https://coveralls.io/repos/github/arielvinas/webaio/badge.svg)](https://coveralls.io/github/arielvinas/webaio)
 
 webaio provides a simple way to create async web applications based on `aiohttp`.
 
