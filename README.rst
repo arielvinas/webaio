@@ -2,8 +2,8 @@ webaio
 ======
 .. image:: https://circleci.com/gh/francom77/webaio.svg?style=shield
    :target: https://circleci.com/gh/francom77/webaio
-.. image:: https://coveralls.io/repos/github/arielvinas/webaio/badge.svg
-   :target: https://coveralls.io/github/arielvinas/webaio
+.. image:: https://coveralls.io/repos/github/arielvinas/webaio/badge.svg?branch=master
+   :target: https://coveralls.io/github/arielvinas/webaio?branch=master
 
 Main Features
 -------------
